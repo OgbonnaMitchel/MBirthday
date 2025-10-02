@@ -2,45 +2,59 @@
   "placeholderImages": [
     {
       "id": "1",
-      "title": "Digital Camera",
-      "description": "To capture beautiful moments and create lasting memories. A high-quality camera would be perfect for documenting travels and family gatherings.",
-      "imageUrl": "https://images.unsplash.com/photo-1698502453332-03fa2ddceb71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwY2FtZXJhfGVufDB8fHx8MTc1OTQxNDg1OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "digital camera"
+      "title": "A New Laptop",
+      "description": "Processor: Intel Core i5/i7 (6th Gen), Graphics: Intel HD 520, Display: 14\" HD/FHD/QHD, RAM: 8GB/16GB DDR4, Storage: 256GB/512GB SSD, OS: Windows 11.",
+      "imageUrl": "https://images.unsplash.com/photo-1716969651694-f1cb1b5f8259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZXclMjBsYXB0b3B8ZW58MHx8fHwxNzU5NDE2MjUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "new laptop"
     },
     {
       "id": "2",
-      "title": "Travel Duffel Bag",
-      "description": "For weekend getaways and adventures. A sturdy and stylish travel bag that's spacious enough for all the essentials.",
-      "imageUrl": "https://images.unsplash.com/photo-1658267387096-164359e1b229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0cmF2ZWwlMjBiYWd8ZW58MHx8fHwxNzU5NDE0ODU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "travel bag"
+      "title": "Airpods",
+      "description": "For immersive music listening and calls on the go.",
+      "imageUrl": "https://images.unsplash.com/photo-1505236273191-1dce886b01e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3aXJlbGVzcyUyMGVhcmJ1ZHN8ZW58MHx8fHwxNzU5MzU1MDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireless earbuds"
     },
     {
       "id": "3",
-      "title": "Espresso Machine",
-      "description": "To kickstart the mornings with a perfect cup of coffee. An espresso machine would be a dream come true for a coffee enthusiast.",
-      "imageUrl": "https://images.unsplash.com/photo-1552833755-fdb50eeb8cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlc3ByZXNzbyUyMG1hY2hpbmV8ZW58MHx8fHwxNzU5NDAwMzg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "espresso machine"
+      "title": "A New Phone",
+      "description": "A new phone with 8GB RAM and 248GB ROM for a smooth experience.",
+      "imageUrl": "https://images.unsplash.com/photo-1649935234624-a2d88d3eeb13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxuZXclMjBwaG9uZXxlbnwwfHx8fDE3NTkzNzcxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "new phone"
     },
     {
       "id": "4",
-      "title": "Wireless Headphones",
-      "description": "For immersive music listening and podcasts without the hassle of wires. Noise-cancelling feature is a big plus.",
-      "imageUrl": "https://images.unsplash.com/photo-1619296794093-3df1ae6819a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3aXJlbGVzcyUyMGhlYWRwaG9uZXN8ZW58MHx8fHwxNzU5MzI4OTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "wireless headphones"
+      "title": "Shoes",
+      "description": "A new pair of comfortable and stylish shoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1635104509917-24fa4a336024?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdHlsaXNoJTIwc2hvZXN8ZW58MHx8fHwxNzU5Mzc3MTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stylish shoes"
     },
     {
       "id": "5",
-      "title": "A Good Book",
-      "description": "A captivating novel to unwind with. Open to fiction, mystery, or sci-fi genres.",
-      "imageUrl": "https://images.unsplash.com/photo-1517770413964-df8ca61194a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxib29rfGVufDB8fHx8MTc1OTQwNzM3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "book"
+      "title": "Clothes",
+      "description": "Some new additions to the wardrobe, like plain shirts, trousers, and a crochet vest.",
+      "imageUrl": "https://images.unsplash.com/photo-1603251579431-8041402bdeda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXclMjBjbG90aGVzfGVufDB8fHx8MTc1OTM0MTY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "new clothes"
     },
     {
       "id": "6",
-      "title": "Gourmet Cooking Set",
-      "description": "To experiment with new recipes and elevate home cooking. A set of high-quality pots and pans.",
-      "imageUrl": "https://images.unsplash.com/photo-1654064756620-52e48f37099f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb29raW5nJTIwc2V0fGVufDB8fHx8MTc1OTQxNDg1OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "cooking set"
+      "title": "Smart Watch",
+      "description": "To stay connected and track fitness goals.",
+      "imageUrl": "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbWFydCUyMHdhdGNofGVufDB8fHx8MTc1OTQwNTY5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart watch"
+    },
+    {
+      "id": "7",
+      "title": "Money",
+      "description": "A contribution towards a bigger goal. Any amount is appreciated!",
+      "imageUrl": "https://images.unsplash.com/photo-1733743641023-00f5eb6b96cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb25leSUyMGdpZnR8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "money gift"
+    },
+    {
+      "id": "8",
+      "title": "Prayers",
+      "description": "Your heartfelt prayers and good wishes are the most precious gift of all.",
+      "imageUrl": "https://images.unsplash.com/photo-1493185128862-6caeb234f9f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsb3ZlJTIwcGVhY2V8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "love peace"
     }
   ]
 }
