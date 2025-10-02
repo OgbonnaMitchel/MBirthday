@@ -5,7 +5,7 @@ export function Header() {
         MBirthday Wishlist
       </h1>
       <p className="mt-4 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-        A curated collection of wishes for a special celebration. Browse the items below and pledge a gift.
+        A curated collectin of wishes for my Birthday Celebration. Browse the items below and pledge a gift
       </p>
     </header>
   );
