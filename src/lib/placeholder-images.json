@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "A New Laptop",
-      "description": "Processor: Intel Core i5-6200U, i5-6300U, i7-6500U, or i7-6600U (6th Gen), Graphics: Integrated Intel HD Graphics 520, Display: 14-inch diagonal, various options: HD (1366 x 768) Anti-glare, Full HD (FHD) (1920 x 1080) Anti-glare, Quad HD (QHD) (2560 x 1440) Anti-glare, RAM (Memory): 8 GB or 16 GB DDR4-2133 SDRAM (Max up to 32 GB), Storage: 256 GB or 512 GB SSD (Solid State Drive) (M.2 SATA or PCIe options), Operating System: Windows 11 64-bit (Original)",
+      "description": "HP EliteBook 6th Gen Specs (Typical): CPU: Intel Core i5/i7 (6th Gen), Graphics: Integrated Intel HD Graphics 520, Display: 14 (HD, FHD, or QHD), RAM: 8GB or 16GB DDR4 (up to 32GB max), Storage: 256GB or 512GB SSD, OS: Windows 11 (64-bit)",
       "imageUrl": "https://i.pinimg.com/736x/63/18/77/6318778451d93af5fcb326f6535739e0.jpg",
       "imageHint": "new laptop"
     },
@@ -53,21 +53,21 @@
       "id": "8",
       "title": "Prayers",
       "description": "Your heartfelt prayers and good wishes are the most precious gift of all.",
-      "imageUrl": "https://images.unsplash.com/photo-1725979505378-029864700278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb3ZlJTIwcGVhY2V8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.pinimg.com/736x/f1/e1/ae/f1e1aea32c9e68e68365b67acc0d2b1d.jpg",
       "imageHint": "love peace"
     },
     {
       "id": "9",
       "title": "Palm slippers",
       "description": "Any color ",
-      "imageUrl": "https://i.pinimg.com/736x/f0/35/cf/f035cfa128983214327a593798462dac.jpg",
+      "imageUrl": "https://i.pinimg.com/1200x/ff/60/c1/ff60c1a7185b6884b7db45b37190335d.jpg",
       "imageHint": "Slippers"
     },
     {
       "id": "10",
       "title": "Plain shirt and Trouser",
       "description": "Any color ",
-      "imageUrl": "https://i.pinimg.com/1200x/ff/60/c1/ff60c1a7185b6884b7db45b37190335d.jpg",
+      "imageUrl": "https://i.pinimg.com/736x/f0/35/cf/f035cfa128983214327a593798462dac.jpg",
       "imageHint": "Plain new clothes"
     }
   ]
