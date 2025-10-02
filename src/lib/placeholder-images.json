@@ -4,49 +4,49 @@
       "id": "1",
       "title": "A New Laptop",
       "description": "Processor: Intel Core i5-6200U, i5-6300U, i7-6500U, or i7-6600U (6th Gen), Graphics: Integrated Intel HD Graphics 520, Display: 14-inch diagonal, various options: HD (1366 x 768) Anti-glare, Full HD (FHD) (1920 x 1080) Anti-glare, Quad HD (QHD) (2560 x 1440) Anti-glare, RAM (Memory): 8 GB or 16 GB DDR4-2133 SDRAM (Max up to 32 GB), Storage: 256 GB or 512 GB SSD (Solid State Drive) (M.2 SATA or PCIe options), Operating System: Windows 11 64-bit (Original)",
-      "imageUrl": "https://images.unsplash.com/photo-1716969651694-f1cb1b5f8259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZXclMjBsYXB0b3B8ZW58MHx8fHwxNzU5NDE2MjUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.pinimg.com/736x/63/18/77/6318778451d93af5fcb326f6535739e0.jpg",
       "imageHint": "new laptop"
     },
     {
       "id": "2",
       "title": "An Airpods",
       "description": "For immersive music listening and calls on the go.",
-      "imageUrl": "https://images.unsplash.com/photo-1590658006821-04f4008d5717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3aXJlbGVzcyUyMGVhcmJ1ZHN8ZW58MHx8fHwxNzU5MzU1MDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.pinimg.com/736x/dc/4d/4f/dc4d4fe94bd49969d40ae1bc857596c7.jpg",
       "imageHint": "wireless earbuds"
     },
     {
       "id": "3",
       "title": "A New Phone",
       "description": "A new phone with 8GB RAM and 248GB ROM for a smooth experience.",
-      "imageUrl": "https://images.unsplash.com/photo-1599477867274-c04f58944d90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuZXclMjBwaG9uZXxlbnwwfHx8fDE3NTkzNzcxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.pinimg.com/1200x/48/1f/d2/481fd2e4410240e01d1fb2bb086b68c0.jpg",
       "imageHint": "new phone"
     },
     {
       "id": "4",
       "title": "Shoes",
       "description": "A new pair of comfortable and stylish shoes.",
-      "imageUrl": "https://images.unsplash.com/photo-1635104509917-24fa4a336024?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdHlsaXNoJTIwc2hvZXN8ZW58MHx8fHwxNzU5Mzc3MTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.pinimg.com/736x/27/24/53/2724539e20616c046366d5dddc553764.jpg",
       "imageHint": "stylish shoes"
     },
     {
       "id": "5",
-      "title": "Clothes",
-      "description": "Some new additions to the wardrobe, like plain shirts, trousers, and a crochet vest.",
-      "imageUrl": "https://images.unsplash.com/photo-1642183583854-b85625358c29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZXclMjBjbG90aGVzfGVufDB8fHx8MTc1OTM0MTY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Crochet Vest",
+      "description": " A Black crochet vest.",
+      "imageUrl": "https://i.pinimg.com/736x/a0/9c/22/a09c226f32a9c63fb535e46f7030515f.jpg",
       "imageHint": "new clothes"
     },
     {
       "id": "6",
       "title": "Smart Watch",
       "description": "To stay connected and track fitness goals.",
-      "imageUrl": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMHdhdGNofGVufDB8fHx8MTc1OTQwNTY5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.pinimg.com/736x/27/08/26/27082657bd4d094091300666d02b30ae.jpg",
       "imageHint": "smart watch"
     },
     {
       "id": "7",
       "title": "Money",
       "description": "A contribution towards a bigger goal. Any amount is appreciated!",
-      "imageUrl": "https://images.unsplash.com/photo-1758738181955-3f917d756275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb25leSUyMGdpZnR8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.pinimg.com/736x/62/32/f8/6232f8dc4b155b82aaedb99f58ca6e84.jpg",
       "imageHint": "money gift"
     },
     {
@@ -55,6 +55,20 @@
       "description": "Your heartfelt prayers and good wishes are the most precious gift of all.",
       "imageUrl": "https://images.unsplash.com/photo-1725979505378-029864700278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb3ZlJTIwcGVhY2V8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "love peace"
+    },
+    {
+      "id": "9",
+      "title": "Palm slippers",
+      "description": "Any color ",
+      "imageUrl": "https://i.pinimg.com/736x/f0/35/cf/f035cfa128983214327a593798462dac.jpg",
+      "imageHint": "Slippers"
+    },
+    {
+      "id": "10",
+      "title": "Plain shirt and Trouser",
+      "description": "Any color ",
+      "imageUrl": "https://i.pinimg.com/1200x/ff/60/c1/ff60c1a7185b6884b7db45b37190335d.jpg",
+      "imageHint": "Plain new clothes"
     }
   ]
 }
