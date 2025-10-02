@@ -3,22 +3,22 @@
     {
       "id": "1",
       "title": "A New Laptop",
-      "description": "Processor: Intel Core i5/i7 (6th Gen), Graphics: Intel HD 520, Display: 14\" HD/FHD/QHD, RAM: 8GB/16GB DDR4, Storage: 256GB/512GB SSD, OS: Windows 11.",
+      "description": "Processor: Intel Core i5-6200U, i5-6300U, i7-6500U, or i7-6600U (6th Gen), Graphics: Integrated Intel HD Graphics 520, Display: 14-inch diagonal, various options: HD (1366 x 768) Anti-glare, Full HD (FHD) (1920 x 1080) Anti-glare, Quad HD (QHD) (2560 x 1440) Anti-glare, RAM (Memory): 8 GB or 16 GB DDR4-2133 SDRAM (Max up to 32 GB), Storage: 256 GB or 512 GB SSD (Solid State Drive) (M.2 SATA or PCIe options), Operating System: Windows 11 64-bit (Original)",
       "imageUrl": "https://images.unsplash.com/photo-1716969651694-f1cb1b5f8259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZXclMjBsYXB0b3B8ZW58MHx8fHwxNzU5NDE2MjUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "new laptop"
     },
     {
       "id": "2",
-      "title": "Airpods",
+      "title": "An Airpods",
       "description": "For immersive music listening and calls on the go.",
-      "imageUrl": "https://images.unsplash.com/photo-1505236273191-1dce886b01e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3aXJlbGVzcyUyMGVhcmJ1ZHN8ZW58MHx8fHwxNzU5MzU1MDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1590658006821-04f4008d5717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3aXJlbGVzcyUyMGVhcmJ1ZHN8ZW58MHx8fHwxNzU5MzU1MDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "wireless earbuds"
     },
     {
       "id": "3",
       "title": "A New Phone",
       "description": "A new phone with 8GB RAM and 248GB ROM for a smooth experience.",
-      "imageUrl": "https://images.unsplash.com/photo-1649935234624-a2d88d3eeb13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxuZXclMjBwaG9uZXxlbnwwfHx8fDE3NTkzNzcxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1599477867274-c04f58944d90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuZXclMjBwaG9uZXxlbnwwfHx8fDE3NTkzNzcxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "new phone"
     },
     {
@@ -32,28 +32,28 @@
       "id": "5",
       "title": "Clothes",
       "description": "Some new additions to the wardrobe, like plain shirts, trousers, and a crochet vest.",
-      "imageUrl": "https://images.unsplash.com/photo-1603251579431-8041402bdeda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXclMjBjbG90aGVzfGVufDB8fHx8MTc1OTM0MTY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1642183583854-b85625358c29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZXclMjBjbG90aGVzfGVufDB8fHx8MTc1OTM0MTY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "new clothes"
     },
     {
       "id": "6",
       "title": "Smart Watch",
       "description": "To stay connected and track fitness goals.",
-      "imageUrl": "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbWFydCUyMHdhdGNofGVufDB8fHx8MTc1OTQwNTY5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMHdhdGNofGVufDB8fHx8MTc1OTQwNTY5MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "smart watch"
     },
     {
       "id": "7",
       "title": "Money",
       "description": "A contribution towards a bigger goal. Any amount is appreciated!",
-      "imageUrl": "https://images.unsplash.com/photo-1733743641023-00f5eb6b96cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb25leSUyMGdpZnR8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758738181955-3f917d756275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb25leSUyMGdpZnR8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "money gift"
     },
     {
       "id": "8",
       "title": "Prayers",
       "description": "Your heartfelt prayers and good wishes are the most precious gift of all.",
-      "imageUrl": "https://images.unsplash.com/photo-1493185128862-6caeb234f9f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsb3ZlJTIwcGVhY2V8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1725979505378-029864700278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb3ZlJTIwcGVhY2V8ZW58MHx8fHwxNzU5NDE2MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "love peace"
     }
   ]
