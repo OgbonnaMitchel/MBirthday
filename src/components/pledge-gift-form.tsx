@@ -1,7 +1,7 @@
 "use client";
 
-import { useFormState, useFormStatus } from "react-dom";
-import { useEffect } from "react";
+import { useActionState, useEffect } from "react";
+import { useFormStatus } from "react-dom";
 import { User, Mail, MessageCircle, Gift } from "lucide-react";
 
 import { pledgeGift } from "@/app/actions";
@@ -39,7 +39,7 @@ export function PledgeGiftForm({
   item: WishlistItem;
   onPledgeSuccess: (itemId: string) => void;
 }) {
-  const [state, formAction] = useFormState(pledgeGift, initialState);
+  const [state, formAction] = useActionState(pledgeGift, initialState);
 
   useEffect(() => {
     if (state.success) {
