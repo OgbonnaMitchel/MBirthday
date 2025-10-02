@@ -49,6 +49,7 @@ export function PledgeGiftForm({
 
   return (
     <form action={formAction} className="grid gap-6 pt-4">
+       <input type="hidden" name="giftTitle" value={item.title} />
       <div className="grid gap-2">
         <Label htmlFor="name">Your Name</Label>
         <div className="relative">

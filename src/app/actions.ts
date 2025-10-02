@@ -7,6 +7,7 @@ const pledgeSchema = z.object({
   name: z.string().min(2, { message: "Name must be at least 2 characters." }),
   whatsapp: z.string().min(10, { message: "Please enter a valid WhatsApp number." }),
   email: z.string().email({ message: "Please enter a valid email address." }),
+  giftTitle: z.string(),
 });
 
 const resend = new Resend(process.env.RESEND_API_KEY);
@@ -15,12 +16,29 @@ const sendReminderAPI = async (data: z.infer<typeof pledgeSchema>) => {
   console.log("Sending reminder data to backend:", data);
 
   try {
+    // Email to the person pledging
     await resend.emails.send({
       from: 'ogbonnamitchel004@gmail.com',
       to: data.email,
       subject: 'Thank you for your gift pledge!',
-      text: `Hi ${data.name},\n\nThank you for pledging a gift for the birthday celebration. We'll send you a reminder closer to the date.\n\nBest,\nThe Birthday Team`,
+      text: `Hi ${data.name},\n\nThank you for pledging for the ${data.giftTitle}. We'll send you a reminder closer to the date.\n\nBest,\nThe Birthday Team`,
     });
+
+    // Notification email to the birthday person
+    await resend.emails.send({
+        from: 'ogbonnamitchel004@gmail.com',
+        to: 'ogbonnamitchel004@gmail.com',
+        subject: `New Gift Pledge: ${data.giftTitle}`,
+        text: `Great news!
+        \nSomeone just pledged a gift for your birthday.
+        \nGift: ${data.giftTitle}
+        \nPledger's Name: ${data.name}
+        \nPledger's Email: ${data.email}
+        \nLet the celebration begin!
+        \n\nBest,
+        \nYour Birthday Wishlist App`,
+    });
+
     return { success: true };
   } catch (error) {
     console.error("Error sending email:", error);
@@ -39,6 +57,7 @@ export async function pledgeGift(
     name: formData.get("name"),
     whatsapp: formData.get("whatsapp"),
     email: formData.get("email"),
+    giftTitle: formData.get("giftTitle"),
   });
 
   if (!validatedFields.success) {
