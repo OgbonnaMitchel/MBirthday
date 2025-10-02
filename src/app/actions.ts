@@ -20,8 +20,8 @@ const sendReminderAPI = async (data: z.infer<typeof pledgeSchema>) => {
     await resend.emails.send({
       from: 'ogbonnamitchel004@gmail.com',
       to: data.email,
-      subject: 'Thank you for your gift pledge!',
-      text: `Hi ${data.name},\n\nThank you for pledging for the ${data.giftTitle}. We'll send you a reminder closer to the date.\n\nBest,\nThe Birthday Team`,
+      subject: 'Your gift pledge has been received!',
+      text: `Hi ${data.name},\n\nThank you for your generous pledge for the ${data.giftTitle}. Your pledge has been received, and the celebrant, Ogbonna Mitchel, will be expecting your gift.\n\nWe'll send you a reminder closer to the birthday.\n\nBest regards,\nThe Birthday Team`,
     });
 
     // Notification email to the birthday person
