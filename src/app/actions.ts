@@ -10,12 +10,11 @@ const pledgeSchema = z.object({
   giftTitle: z.string(),
 });
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-
 const sendReminderAPI = async (data: z.infer<typeof pledgeSchema>) => {
   console.log("Sending reminder data to backend:", data);
 
   try {
+    const resend = new Resend(process.env.RESEND_API_KEY);
     // Email to the person pledging
     await resend.emails.send({
       from: 'ogbonnamitchel004@gmail.com',
